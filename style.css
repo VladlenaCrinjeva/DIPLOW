@@ -1,7 +1,7 @@
 @font-face {
 	font-family: 'neu'; 
 	src: local('neu'),
-		url(./fonts/Neucha/Neucha.ttf); 
+		url(Neucha.ttf); 
 }
 
 body{
